@@ -87,14 +87,10 @@ The dashboard enables better **sales strategy planning**, **inventory optimizati
 ## 🖼 Screenshots / Visualizations
 
 ### 📊 Overall Chocolate Sales by Product & Region
-![Overall Sales](screenshots/overall_sales.png)
+![Overall Sales](https://github.com/Kamachari/Chocolate-Sales-Data-Analysis-Using-Power-BI/blob/main/Dashboards/chocolate%20overall%20sale%20analysis.png)
 
 ### 📦 Product Demand vs Shipped Boxes
-![Demand vs Shipment]([Dashboards/chocolate%2%Product%2%Demand%2%&%2%Shipment%2%Analysis.png](https://github.com/Kamachari/Chocolate-Sales-Data-Analysis-Using-Power-BI/blob/main/Dashboards/chocolate%20Product%20Demand%20%26%20Shipment%20Analysis.png))
-
-### 🌍 Regional Contribution & Performance Trends
-![Regional Performance](screenshots/regional_performance.png)
-
+![Demand vs Shipment](https://github.com/Kamachari/Chocolate-Sales-Data-Analysis-Using-Power-BI/blob/main/Dashboards/chocolate%20Product%20Demand%20%26%20Shipment%20Analysis.png)
 
 ---
 
