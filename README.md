@@ -107,7 +107,8 @@ The dashboard enables better **sales strategy planning**, **inventory optimizati
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kamachari/Chocolate-Sales-Analysis.git
+   git clone
+   https://github.com/kamachari/Chocolate-Sales-Data-Analysis-Using-Power-BI
    ```
 2. Open `Chocolate_Sales_Analysis.pbix` in **Power BI Desktop**
 3. Load the CSV dataset and refresh the visuals
